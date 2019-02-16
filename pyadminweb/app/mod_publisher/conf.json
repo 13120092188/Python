@@ -1,0 +1,8 @@
+{ "server":"182.48.107.140",
+  "private_server":"182.48.107.140",
+  "port":"1025",
+  "sub_topic":"new_block",
+  "pre_file":"block",
+  "signal_port":"1025",
+  "write_port":"1025"
+}

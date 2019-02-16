@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta  http-equiv="Expires"  CONTENT="0">
+    <meta  http-equiv="Cache-Control"  CONTENT="no-cache">
+    <meta  http-equiv="Pragma"  CONTENT="no-cache">
+
+    <title>商品追溯信息</title>
+    <style>
+        body {
+            background:url("static/images/1.jpg") 0px 0px no-repeat;
+            background-size: cover;
+            overflow-x: hidden;
+        }
+        .container{
+            weight:80%;
+            height:auto;
+	        margin:50px 30%;
+            padding:200,200,200,200px;
+            text-align: center;
+        }
+        .block-of-chain{
+            weight:200px;
+            height:800px;
+	        background-color: rgba(82, 82, 82, 0.6);
+            margin:10px auto;
+            overflow:auto;
+            text-align: center;
+            padding:20,20,20,20px;
+            -webkit-transition: 0.5s all;
+            -moz-transition: 0.5s all;
+            -o-transition: 0.5s all;
+            -ms-transition: 0.5s all;
+            -moz-border-radius: 13px;
+            -webkit-border-radius: 13px;
+            -khtml-border-radius: 13px;
+        }
+
+        .block-of-chain1{
+            weight:200px;
+            height:500px;
+	        background-color: rgba(82, 82, 82, 0.6);
+            margin:10px auto;
+            overflow:auto;
+            text-align: center;
+            padding:20,20,20,20px;
+            -webkit-transition: 0.5s all;
+            -moz-transition: 0.5s all;
+            -o-transition: 0.5s all;
+            -ms-transition: 0.5s all;
+            -moz-border-radius: 13px;
+            -webkit-border-radius: 13px;
+            -khtml-border-radius: 13px;
+        }
+
+        .register {
+            outline: none;
+            font-size:16px;
+            font-family:Nunito-Light;
+            color: #fff;
+            padding: 10px 10px;
+            border:none;
+            -moz-border-radius: 3px;
+            -webkit-border-radius: 3px;
+            -khtml-border-radius: 3px;
+            border-radius: 3px;
+            width: 60%;
+            margin: 0 0 -2px 0 ;
+            background:rgba(2, 2, 2, 0.6);
+        }
+
+        .confirm {
+            background:rgba(2, 2, 2, 0.6);
+            color: #fff;
+            border: 2px solid #fff;
+            font-size: 18px;
+            font-family:Nunito-Light;
+            padding: 15px 10px 15px 15px;
+            width: 85%;
+            cursor: pointer;
+            outline: none;
+            display: inline-block;
+            margin-top:24px;
+            transition: 0.5s all;
+            -webkit-transition: 0.5s all;
+            -moz-transition: 0.5s all;
+            -o-transition: 0.5s all;
+            -ms-transition: 0.5s all;
+            -moz-border-radius: 3px;
+            -webkit-border-radius: 3px;
+            -khtml-border-radius: 3px;
+            border-radius: 3px;
+        }
+        .img{
+            position:relative;
+            top:10px;
+            height:300px;
+            weight:300px;
+        }
+    </style>
+</head>
+<body onload="uploadBlock({{data}})">
+    <div id="list-of-commodity" class="container">
+        <h1 style="color:white;">商品追溯信息</h1>
+        <button class="confirm" onclick="addBlock()" type="submit" >添加区块信息</button>
+        <!--button class="confirm" onclick="uploadBlock({{data}})" type="submit" >查看追溯信息</button-->
+
+    </div>
+
+    <script type="text/javascript">
+        function addBlock() {
+            //先保存div中原来的html
+            var html = document.getElementById("list-of-commodity").innerHTML;
+            //再跟你想追加的代码加到一起插入div中
+            document.getElementById("list-of-commodity").innerHTML = html + '<div class="block-of-chain1"> <form method="post"> <p style="color:white;">二维码号 <input class="register" type = "text" name="num"  placeholder="例：123456789" required=""></p> <p style="color:white;">商品名称 <input class="register" type = "text" name="comm_name" placeholder="加工后的名称" required=""></p> <p style="color:white;">加工日期 <input class="register" type = "text" name="processdate" placeholder="例：2018.7.9-2018.7.17" required=""></p> <p style="color:white;">商品规格 <input class="register" type = "text" name="specification" placeholder="质量、形状、化学成分等理化生信息" required=""></p> <p style="color:white;">公司地址 <input class="register" type = "text" name="adress" placeholder="详细地址" required=""></p> <p style="color:white;">公司名称 <input class="register" type = "text" name="company" placeholder="公司全称" required=""></p> <button class="confirm" onclick="function c()">加入区块链</button> </form> </div>';
+        }
+        function  c(){
+            location.reload();
+        }
+        function uploadBlock(data) {
+            //先保存div中原来的html
+            //var html = document.getElementById("list-of-commodity").innerHTML;
+            var html = '<h1 style="color:white;">商品追溯信息</h1> <button class="confirm" onclick="addBlock()" type="submit" >添加区块信息</button>';
+            //再跟你想追加的代码加到一起插入div中
+            var img = ""; //图片路径
+            var prehash = "";
+            var hash = "";
+            var num = "";
+            var name = "";
+            var time = "";
+            var spec = "";
+            var addr = "";
+            var company = "";
+            for(var i = 0; i < data.length; i++)
+            {
+                if (i%8 == 0) {
+                    num = data[i];
+                    img = "static/img/"+num+".png";
+                }
+                if (i%8 == 1) name = data[i];
+                if (i%8 == 2) time = data[i];
+                if (i%8 == 3) spec = data[i];
+                if (i%8 == 4) addr = data[i];
+                if (i%8 == 6) {
+                    company = data[i];
+                    html = html + '<div class="block-of-chain"> <h2 style="color:white;">' + company + '</h2> <form > <img src="' + img + '" class="img"> <p style="color:white;">商品编号 <input class="register" disabled="disabled" value="' + num + '" required=""></p> <p style="color:white;">商品名称 <input class="register" disabled="disabled" value="' + name + '" required=""></p> <p style="color:white;">加工日期 <input class="register" disabled="disabled" value="' + time + '" required=""></p> <p style="color:white;">商品规格 <input class="register" disabled="disabled" value="' + spec + '" required=""></p> <p style="color:white;">公司地址 <input class="register" disabled="disabled" value="' + addr + '" required=""></p> </form> </div>';
+                }
+            }
+            document.getElementById("list-of-commodity").innerHTML = html;
+        }
+
+
+    </script>
+</body>
+</html>
