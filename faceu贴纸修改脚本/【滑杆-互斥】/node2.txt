@@ -1,0 +1,1277 @@
+esondeMacBook-Pro:0929 eson$ cd /Users/eson/Desktop/0929 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Library/Frameworks/Python.framework/Versions/3.7/bin/python3 /Users/eson/.vscode/extensions/ms-python.python-2019.9.34911/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 62502 /Users/eson/Desktop/0929/getMakeupType.py 
+/Users/eson/Desktop/0929
+---------------Start...----------------
+###########/Users/eson/Desktop/0929/安卓############
+*****************************Black*********************************************
++正在处理 Black...
+滤镜个数：1  Filter_5106
+美妆个数：1  FaceMakeupV2_byTool1
+*****************************blossomfin*********************************************
++正在处理 blossomfin...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************color安卓*********************************************
++正在处理 color安卓...
+滤镜个数：1  Filter_5102
+美妆个数：1  FaceMakeupV2_byTool
+*****************************fashi*********************************************
++正在处理 fashi...
+需手动修改...
+滤镜个数：2  Filter_5106  Filter_5107
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("brow_faceu+2992",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.8)
+男女适配：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+*****************************gangfengfin*********************************************
++正在处理 gangfengfin...
+滤镜个数：1  Filter
+美妆个数：1  FaceMakeupV2_byTool
+*****************************hulifin*********************************************
++正在处理 hulifin...
+滤镜个数：1  Filter_5097
+美妆个数：1  FaceMakeupV2_byTool
+*****************************koizorafin*********************************************
++正在处理 koizorafin...
+滤镜个数：1  Filter_5103
+美妆个数：1  FaceMakeupV2_byTool
+*****************************kyoto*********************************************
++正在处理 kyoto...
+滤镜个数：1  Filter_5103
+美妆个数：1  FaceMakeupV2_byTool
+*****************************naoxuefin*********************************************
++正在处理 naoxuefin...
+滤镜个数：1  Filter_5092
+美妆个数：1  FaceMakeupV2_byTool
+*****************************quebanzhuangfin*********************************************
++正在处理 quebanzhuangfin...
+滤镜个数：1  Filter_5098
+美妆个数：1  FaceMakeupV2_byTool
+*****************************whisper 2*********************************************
++正在处理 whisper 2...
+滤镜个数：1  Filter_5099
+美妆个数：1  FaceMakeupV2_byTool
+*****************************xiaoxx 2*********************************************
++正在处理 xiaoxx 2...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************xuanyahuahaufin*********************************************
++正在处理 xuanyahuahaufin...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************yaoyao安卓*********************************************
++正在处理 yaoyao安卓...
+需手动修改...
+滤镜个数：2  Filter_5102  Filter_5099
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("brow_faceu+2992",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.8)
+男女适配：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+*****************************yinhuazhuang*********************************************
++正在处理 yinhuazhuang...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************丘比特*********************************************
++正在处理 丘比特...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************告白*********************************************
++正在处理 告白...
+需手动修改...
+滤镜个数：2  Filter_5101  Filter_5100_F
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2994",percentage)
+_feature:setIntensity("eye_part_faceu+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.8)
+男女适配：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2992",vals)
+_feature:setOpacity("mask_faceuv2+2994",vals)
+_feature:setOpacity("eye_part_faceu+2995",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+*****************************喜欢你*********************************************
++正在处理 喜欢你...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************小仙女*********************************************
++正在处理 小仙女...
+需手动修改...
+滤镜个数：2  Filter_5099  Filter_5097
+美妆个数：2  FaceMakeupV2_byTool_white  FaceMakeupV2_byTool_black
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("mask_faceuv2+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2994",percentage)
+_feature:setIntensity("eye_part_faceu+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.8)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("mask_faceuv2+2995",vals)
+_feature:setOpacity("eye_part_faceu+2994",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+滑杆2222：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2994",percentage)
+_feature:setIntensity("eye_part_faceu+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+男女适配2222：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2992",vals)
+_feature:setOpacity("mask_faceuv2+2994",vals)
+_feature:setOpacity("eye_part_faceu+2995",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+*****************************小恶魔安卓*********************************************
++正在处理 小恶魔安卓...
+滤镜个数：1  Filter_2000
+美妆个数：1  FaceMakeupV2_2999
+*****************************小野马*********************************************
++正在处理 小野马...
+滤镜个数：1  Filter_5092
+美妆个数：1  FaceMakeupV2_byTool
+*****************************小雏菊*********************************************
++正在处理 小雏菊...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************晒伤*********************************************
++正在处理 晒伤...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************欧美妆安卓*********************************************
++正在处理 欧美妆安卓...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************浆果女孩*********************************************
++正在处理 浆果女孩...
+滤镜个数：1  Filter_5096
+美妆个数：1  FaceMakeupV2_byTool
+*****************************港风2*********************************************
++正在处理 港风2...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************爱心光斑*********************************************
++正在处理 爱心光斑...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************猪猪女孩*********************************************
++正在处理 猪猪女孩...
+滤镜个数：1  Filter_5095
+美妆个数：1  FaceMakeupV2_byTool
+*****************************甜心腮红*********************************************
++正在处理 甜心腮红...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************电影定格*********************************************
++正在处理 电影定格...
+滤镜个数：1  Filter_5097
+美妆个数：1  FaceMakeupV2_byTool
+*****************************画报妆*********************************************
++正在处理 画报妆...
+滤镜个数：1  Filter_2998
+美妆个数：1  FaceMakeupV2_byTool
+*****************************胶片1*********************************************
++正在处理 胶片1...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************脏橘妆*********************************************
++正在处理 脏橘妆...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************蜜桃妆*********************************************
++正在处理 蜜桃妆...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************魔力圈圈*********************************************
++正在处理 魔力圈圈...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************麋鹿妆安卓*********************************************
++正在处理 麋鹿妆安卓...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+###########/Users/eson/Desktop/0929/iOS############
+*****************************Black*********************************************
++正在处理 Black...
+滤镜个数：1  Filter_5106
+美妆个数：1  FaceMakeupV2_byTool1
+*****************************Purpletiezhi*********************************************
++正在处理 Purpletiezhi...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************VHS*********************************************
++正在处理 VHS...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************baileys *********************************************
++正在处理 baileys ...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************blossom ios*********************************************
++正在处理 blossom ios...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************color*********************************************
++正在处理 color...
+滤镜个数：1  Filter_5102
+美妆个数：1  FaceMakeupV2_byTool
+*****************************dot*********************************************
++正在处理 dot...
+需手动修改...
+滤镜个数：1  Filter_5094
+单独看看
+*****************************fashi*********************************************
++正在处理 fashi...
+需手动修改...
+滤镜个数：2  Filter_5106  Filter_5107
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("brow_faceu+2992",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.8)
+男女适配：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+*****************************gangfeng ios*********************************************
++正在处理 gangfeng ios...
+滤镜个数：1  Filter
+美妆个数：1  FaceMakeupV2_byTool
+*****************************huli*********************************************
++正在处理 huli...
+滤镜个数：1  Filter_5097
+美妆个数：1  FaceMakeupV2_byTool
+*****************************koizora ios*********************************************
++正在处理 koizora ios...
+滤镜个数：1  Filter_5103
+美妆个数：1  FaceMakeupV2_byTool
+*****************************kyoto*********************************************
++正在处理 kyoto...
+滤镜个数：1  Filter_5103
+美妆个数：1  FaceMakeupV2_byTool
+*****************************naoxue*********************************************
++正在处理 naoxue...
+滤镜个数：1  Filter_5092
+美妆个数：1  FaceMakeupV2_byTool
+*****************************quebanzhuang  ios*********************************************
++正在处理 quebanzhuang  ios...
+滤镜个数：1  Filter_5098
+美妆个数：1  FaceMakeupV2_byTool
+*****************************whisper ios*********************************************
++正在处理 whisper ios...
+滤镜个数：1  Filter_5099
+美妆个数：1  FaceMakeupV2_byTool
+*****************************xiaoxx *********************************************
++正在处理 xiaoxx ...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************xihuanni*********************************************
++正在处理 xihuanni...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************xuanyahuahau*********************************************
++正在处理 xuanyahuahau...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************yaoyao*********************************************
++正在处理 yaoyao...
+需手动修改...
+滤镜个数：2  Filter_5102  Filter_5099
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("brow_faceu+2992",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.8)
+男女适配：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+*****************************yinhuazhuang ios*********************************************
++正在处理 yinhuazhuang ios...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************丘比特*********************************************
++正在处理 丘比特...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************告白*********************************************
++正在处理 告白...
+需手动修改...
+滤镜个数：2  Filter_5101  Filter_5100_F
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2994",percentage)
+_feature:setIntensity("eye_part_faceu+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.8)
+男女适配：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2992",vals)
+_feature:setOpacity("mask_faceuv2+2994",vals)
+_feature:setOpacity("eye_part_faceu+2995",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+*****************************定格_ios*********************************************
++正在处理 定格_ios...
+滤镜个数：1  Filter_5097
+美妆个数：1  FaceMakeupV2_byTool
+*****************************小仙女*********************************************
++正在处理 小仙女...
+需手动修改...
+滤镜个数：2  Filter_5099  Filter_5097
+美妆个数：2  FaceMakeupV2_byTool_white  FaceMakeupV2_byTool_black
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("mask_faceuv2+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2994",percentage)
+_feature:setIntensity("eye_part_faceu+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.8)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("mask_faceuv2+2995",vals)
+_feature:setOpacity("eye_part_faceu+2994",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+滑杆2222：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2994",percentage)
+_feature:setIntensity("eye_part_faceu+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+男女适配2222：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2992",vals)
+_feature:setOpacity("mask_faceuv2+2994",vals)
+_feature:setOpacity("eye_part_faceu+2995",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+*****************************小恶魔*********************************************
++正在处理 小恶魔...
+滤镜个数：1  Filter_2000
+美妆个数：1  FaceMakeupV2_2999
+*****************************小野马*********************************************
++正在处理 小野马...
+滤镜个数：1  Filter_5092
+美妆个数：1  FaceMakeupV2_byTool
+*****************************小雏菊*********************************************
++正在处理 小雏菊...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************晒伤*********************************************
++正在处理 晒伤...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************欧美妆*********************************************
++正在处理 欧美妆...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************浆果女孩*********************************************
++正在处理 浆果女孩...
+滤镜个数：1  Filter_5096
+美妆个数：1  FaceMakeupV2_byTool
+*****************************港风2*********************************************
++正在处理 港风2...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************爱心光斑*********************************************
++正在处理 爱心光斑...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************猪猪女孩*********************************************
++正在处理 猪猪女孩...
+滤镜个数：1  Filter_5095
+美妆个数：1  FaceMakeupV2_byTool
+*****************************甜心腮红*********************************************
++正在处理 甜心腮红...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************画报妆ios*********************************************
++正在处理 画报妆ios...
+滤镜个数：1  Filter_2998
+美妆个数：1  FaceMakeupV2_byTool
+*****************************胶片1*********************************************
++正在处理 胶片1...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************脏橘妆*********************************************
++正在处理 脏橘妆...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************蜜桃妆*********************************************
++正在处理 蜜桃妆...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************魔力圈圈*********************************************
++正在处理 魔力圈圈...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************麋鹿妆1*********************************************
++正在处理 麋鹿妆1...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+###########/Users/eson/Desktop/0929/yangxun############
+*****************************VCR-IOS*********************************************
++正在处理 VCR-IOS...
+滤镜个数：1  Filter_2000
+美妆个数：1  FaceMakeupV2_byTool
+*****************************VCR-android*********************************************
++正在处理 VCR-android...
+滤镜个数：1  Filter_2000
+美妆个数：1  FaceMakeupV2_byTool
+*****************************fallingios*********************************************
++正在处理 fallingios...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************falling安卓端*********************************************
++正在处理 falling安卓端...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************人鱼泪Android*********************************************
+该贴纸缺少 event.lua 脚本
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************人鱼泪iOS*********************************************
+该贴纸缺少 event.lua 脚本
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************复古杂志Android*********************************************
++正在处理 复古杂志Android...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_5096
+美妆个数：1  FaceMakeupV2_byTool
+*****************************复古杂志ios*********************************************
++正在处理 复古杂志ios...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_5096
+美妆个数：1  FaceMakeupV2_byTool
+*****************************小野猫Android*********************************************
++正在处理 小野猫Android...
+需手动修改...
+滤镜个数：1  Filter_5100
+美妆个数：2  FaceMakeupV2_byTool  FaceMakeupV23_byTool
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.9)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2994",percentage)
+_feature:setIntensity("eye_part_faceu+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.8)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2992",vals)
+_feature:setOpacity("mask_faceuv2+2994",vals)
+_feature:setOpacity("eye_part_faceu+2995",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+滑杆2222：
+_feature:setIntensity("mask_faceuv2+3000",percentage)
+男女适配2222：
+_feature:setOpacity("mask_faceuv2+3000",vals)
+*****************************小野猫ios*********************************************
++正在处理 小野猫ios...
+需手动修改...
+滤镜个数：1  Filter_5100
+美妆个数：2  FaceMakeupV2_byTool  FaceMakeupV23_byTool
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.9)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2994",percentage)
+_feature:setIntensity("eye_part_faceu+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.8)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2992",vals)
+_feature:setOpacity("mask_faceuv2+2994",vals)
+_feature:setOpacity("eye_part_faceu+2995",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+滑杆2222：
+_feature:setIntensity("mask_faceuv2+3000",percentage)
+男女适配2222：
+_feature:setOpacity("mask_faceuv2+3000",vals)
+*****************************暗调Android*********************************************
++正在处理 暗调Android...
+需手动修改...
+滤镜个数：2  Filter_back  Filter_front
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage*0.8)
+_feature:setIntensity("mask_faceuv2+2995",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2994",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2996",percentage*0.8)
+_feature:setIntensity("mask_faceuv2+2997",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2998",percentage*0.8)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.64)
+男女适配：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("mask_faceuv2+2995",vals)
+_feature:setOpacity("eye_part_faceu+2994",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+*****************************暗调ios*********************************************
++正在处理 暗调ios...
+需手动修改...
+滤镜个数：2  Filter_back  Filter_front
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage*0.8)
+_feature:setIntensity("mask_faceuv2+2995",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2994",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2996",percentage*0.8)
+_feature:setIntensity("mask_faceuv2+2997",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2998",percentage*0.8)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.64)
+男女适配：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("mask_faceuv2+2995",vals)
+_feature:setOpacity("eye_part_faceu+2994",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+*****************************月光石Android*********************************************
++正在处理 月光石Android...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************月光石ios*********************************************
++正在处理 月光石ios...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************果汁女孩-android*********************************************
++正在处理 果汁女孩-android...
+需手动修改...
+美妆个数：1  FaceMakeupV2_byTool
+*****************************果汁女孩ios*********************************************
++正在处理 果汁女孩ios...
+需手动修改...
+美妆个数：1  FaceMakeupV2_byTool
+*****************************水雾*********************************************
++正在处理 水雾...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************水雾Android*********************************************
++正在处理 水雾Android...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************法式少女*********************************************
++正在处理 法式少女...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************法式少女-Android*********************************************
++正在处理 法式少女-Android...
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************爱心妆Android*********************************************
++正在处理 爱心妆Android...
+需手动修改...
+滤镜个数：2  Filter_5094  Filter_5095
+美妆个数：2  FaceMakeupV2_byTool2  FaceMakeupV2_byTool1
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage)
+_feature:setIntensity("brow_faceu+2992",percentage)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+滑杆2222：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.9)
+_feature:setIntensity("brow_faceu+2992",percentage)
+男女适配2222：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+*****************************爱心妆iOS*********************************************
++正在处理 爱心妆iOS...
+需手动修改...
+滤镜个数：2  Filter_5094  Filter_5095
+美妆个数：2  FaceMakeupV2_byTool2  FaceMakeupV2_byTool1
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage)
+_feature:setIntensity("brow_faceu+2992",percentage)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+滑杆2222：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.9)
+_feature:setIntensity("brow_faceu+2992",percentage)
+男女适配2222：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+*****************************粉夏*********************************************
++正在处理 粉夏...
+需手动修改...
+滤镜个数：2  Filter_5101  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage*0.9)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.8)
+男女适配：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+*****************************粉夏Android*********************************************
++正在处理 粉夏Android...
+需手动修改...
+滤镜个数：2  Filter_5101  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage*0.9)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.8)
+男女适配：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+----------------End!!!-----------------
+esondeMacBook-Pro:0929 eson$ 
+
+
+
+
+
+
+
+esondeMacBook-Pro:0929 eson$ cd /Users/eson/Desktop/0929 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Library/Frameworks/Python.framework/Versions/3.7/bin/python3 /Users/eson/.vscode/extensions/ms-python.python-2019.9.34911/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 63443 /Users/eson/Desktop/0929/getMakeupType.py 
+/Users/eson/Desktop/0929
+---------------Start...----------------
+###########/Users/eson/Desktop/0929/0930需修改############
+*****************************小兔兔-Android*********************************************
++正在处理 小兔兔-Android...
+滤镜个数：1  Filter_5086
+美妆个数：1  FaceMakeupV2_byTool
+*****************************小兔兔-iOS*********************************************
++正在处理 小兔兔-iOS...
+滤镜个数：1  Filter_5086
+美妆个数：1  FaceMakeupV2_byTool
+*****************************月兔特效包*********************************************
++正在处理 月兔特效包...
+需手动修改...
+滤镜个数：2  Filter_5100  Filter_5096
+美妆个数：2  FaceMakeupV2_byTool_white  FaceMakeupV2_byTool_black
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage*0.8)
+_feature:setIntensity("mask_faceuv2+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2996",percentage)
+_feature:setIntensity("eye_part_faceu+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("eye_part_faceu+2999",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.8)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2992",vals)
+_feature:setOpacity("mask_faceuv2+2996",vals)
+_feature:setOpacity("mask_faceuv2+2996",vals)
+_feature:setOpacity("eye_part_faceu+2995",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("eye_part_faceu+2999",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+滑杆2222：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage*0.8)
+_feature:setIntensity("mask_faceuv2+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2996",percentage)
+_feature:setIntensity("eye_part_faceu+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.8)
+男女适配2222：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2992",vals)
+_feature:setOpacity("mask_faceuv2+2996",vals)
+_feature:setOpacity("mask_faceuv2+2996",vals)
+_feature:setOpacity("eye_part_faceu+2995",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+###########/Users/eson/Desktop/0929/yangxun############
+*****************************VCR-IOS*********************************************
++正在处理 VCR-IOS...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_2000
+美妆个数：1  FaceMakeupV2_byTool
+*****************************VCR-android*********************************************
++正在处理 VCR-android...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_2000
+美妆个数：1  FaceMakeupV2_byTool
+*****************************fallingios*********************************************
++正在处理 fallingios...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************falling安卓端*********************************************
++正在处理 falling安卓端...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************人鱼泪Android*********************************************
+该贴纸缺少 event.lua 脚本
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************人鱼泪iOS*********************************************
+该贴纸缺少 event.lua 脚本
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************复古杂志Android*********************************************
++正在处理 复古杂志Android...
+滤镜个数：1  Filter_5096
+美妆个数：1  FaceMakeupV2_byTool
+*****************************复古杂志ios*********************************************
++正在处理 复古杂志ios...
+滤镜个数：1  Filter_5096
+美妆个数：1  FaceMakeupV2_byTool
+*****************************小野猫Android*********************************************
++正在处理 小野猫Android...
+需手动修改...
+滤镜个数：1  Filter_5100
+美妆个数：2  FaceMakeupV2_byTool  FaceMakeupV23_byTool
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.9)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2994",percentage)
+_feature:setIntensity("eye_part_faceu+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.8)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2992",vals)
+_feature:setOpacity("mask_faceuv2+2994",vals)
+_feature:setOpacity("eye_part_faceu+2995",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+滑杆2222：
+_feature:setIntensity("mask_faceuv2+3000",percentage)
+男女适配2222：
+_feature:setOpacity("mask_faceuv2+3000",vals)
+*****************************小野猫ios*********************************************
++正在处理 小野猫ios...
+需手动修改...
+滤镜个数：1  Filter_5100
+美妆个数：2  FaceMakeupV2_byTool  FaceMakeupV23_byTool
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.9)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2994",percentage)
+_feature:setIntensity("eye_part_faceu+2995",percentage)
+_feature:setIntensity("eye_part_faceu+2996",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.8)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2992",vals)
+_feature:setOpacity("mask_faceuv2+2994",vals)
+_feature:setOpacity("eye_part_faceu+2995",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+滑杆2222：
+_feature:setIntensity("mask_faceuv2+3000",percentage)
+男女适配2222：
+_feature:setOpacity("mask_faceuv2+3000",vals)
+*****************************暗调Android*********************************************
++正在处理 暗调Android...
+需手动修改...
+滤镜个数：2  Filter_back  Filter_front
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage*0.8)
+_feature:setIntensity("mask_faceuv2+2995",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2994",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2996",percentage*0.8)
+_feature:setIntensity("mask_faceuv2+2997",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2998",percentage*0.8)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.64)
+男女适配：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("mask_faceuv2+2995",vals)
+_feature:setOpacity("eye_part_faceu+2994",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+*****************************暗调ios*********************************************
++正在处理 暗调ios...
+需手动修改...
+滤镜个数：2  Filter_back  Filter_front
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2990",percentage*0.75)
+_feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage*0.8)
+_feature:setIntensity("mask_faceuv2+2995",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2994",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2996",percentage*0.8)
+_feature:setIntensity("mask_faceuv2+2997",percentage*0.8)
+_feature:setIntensity("eye_part_faceu+2998",percentage*0.8)
+_feature:setIntensity("lips_keypoint_faceu+2993",percentage*0.64)
+男女适配：
+_feature:setOpacity("pupil_faceu+2990",vals)
+_feature:setOpacity("lips_keypoint_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("mask_faceuv2+2995",vals)
+_feature:setOpacity("eye_part_faceu+2994",vals)
+_feature:setOpacity("eye_part_faceu+2996",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2993",vals)
+*****************************月光石Android*********************************************
++正在处理 月光石Android...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************月光石ios*********************************************
++正在处理 月光石ios...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************果汁女孩-android*********************************************
++正在处理 果汁女孩-android...
+需手动修改...
+美妆个数：1  FaceMakeupV2_byTool
+*****************************果汁女孩ios*********************************************
++正在处理 果汁女孩ios...
+需手动修改...
+美妆个数：1  FaceMakeupV2_byTool
+*****************************水雾*********************************************
++正在处理 水雾...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************水雾Android*********************************************
++正在处理 水雾Android...
+滤镜个数：1  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+*****************************法式少女*********************************************
++正在处理 法式少女...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************法式少女-Android*********************************************
++正在处理 法式少女-Android...
+ -该滤镜已包含‘handleComposerUpdateNodeEvent’
+滤镜个数：1  Filter_5101
+美妆个数：1  FaceMakeupV2_byTool
+*****************************爱心妆Android*********************************************
++正在处理 爱心妆Android...
+需手动修改...
+滤镜个数：2  Filter_5094  Filter_5095
+美妆个数：2  FaceMakeupV2_byTool2  FaceMakeupV2_byTool1
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage)
+_feature:setIntensity("brow_faceu+2992",percentage)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+滑杆2222：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.9)
+_feature:setIntensity("brow_faceu+2992",percentage)
+男女适配2222：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+*****************************爱心妆iOS*********************************************
++正在处理 爱心妆iOS...
+需手动修改...
+滤镜个数：2  Filter_5094  Filter_5095
+美妆个数：2  FaceMakeupV2_byTool2  FaceMakeupV2_byTool1
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage)
+_feature:setIntensity("brow_faceu+2992",percentage)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+滑杆2222：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.9)
+_feature:setIntensity("brow_faceu+2992",percentage)
+男女适配2222：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+_feature:setOpacity("brow_faceu+2992",vals)
+*****************************粉夏*********************************************
++正在处理 粉夏...
+需手动修改...
+滤镜个数：2  Filter_5101  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage*0.9)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.8)
+男女适配：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+*****************************粉夏Android*********************************************
++正在处理 粉夏Android...
+需手动修改...
+滤镜个数：2  Filter_5101  Filter_5100
+美妆个数：1  FaceMakeupV2_byTool
+滑杆：
+_feature:setIntensity("pupil_faceu+2993",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2994",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage*0.9)
+_feature:setIntensity("eye_part_faceu+2990",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage*0.8)
+男女适配：
+_feature:setOpacity("pupil_faceu+2993",vals)
+_feature:setOpacity("lips_keypoint_faceu+2994",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2990",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+----------------End!!!-----------------
+esondeMacBook-Pro:0929 eson$ 
+
+
+
+
+
+esondeMacBook-Pro:0929 eson$ cd /Users/eson/Desktop/0929 ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Library/Frameworks/Python.framework/Versions/3.7/bin/python3 /Users/eson/.vscode/extensions/ms-python.python-2019.9.34911/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 63563 /Users/eson/Desktop/0929/getMakeupType.py 
+/Users/eson/Desktop/0929
+---------------Start...----------------
+###########/Users/eson/Desktop/0929/0930需修改############
+*****************************dot*********************************************
++正在处理 dot...
+需手动修改...
+滤镜个数：1  Filter_5094
+美妆个数：3  FaceMakeupV22_byTool  FaceMakeupV2_byTool  FaceMakeupV23_byTool
+滑杆1111：
+_feature:setIntensity("pupil_faceu+2994",percentage*0.75)
+_feature:setIntensity("eye_part_faceu+2992",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("eye_part_faceu+2993",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2996",percentage*0.8)
+男女适配1111：
+_feature:setOpacity("pupil_faceu+2994",vals)
+_feature:setOpacity("eye_part_faceu+2992",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("eye_part_faceu+2993",vals)
+_feature:setOpacity("lips_keypoint_faceu+2996",vals)
+滑杆2222：
+_feature:setIntensity("pupil_faceu+2994",percentage*0.85)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("mask_faceuv2+3000",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("eye_part_faceu+2993",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2999",percentage*0.8)
+男女适配2222：
+_feature:setOpacity("pupil_faceu+2994",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("mask_faceuv2+3000",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2992",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("eye_part_faceu+2993",vals)
+_feature:setOpacity("lips_keypoint_faceu+2999",vals)
+滑杆3333：
+_feature:setIntensity("pupil_faceu+2994",percentage*0.75)
+_feature:setIntensity("lips_keypoint_faceu+2995",percentage)
+_feature:setIntensity("mask_faceuv2+2999",percentage)
+_feature:setIntensity("mask_faceuv2+2997",percentage)
+_feature:setIntensity("eye_part_faceu+2991",percentage)
+_feature:setIntensity("eye_part_faceu+2992",percentage)
+_feature:setIntensity("mask_faceuv2+2998",percentage)
+_feature:setIntensity("eye_part_faceu+2993",percentage)
+_feature:setIntensity("lips_keypoint_faceu+2996",percentage*0.8)
+男女适配3333：
+_feature:setOpacity("pupil_faceu+2994",vals)
+_feature:setOpacity("lips_keypoint_faceu+2995",vals)
+_feature:setOpacity("mask_faceuv2+2999",vals)
+_feature:setOpacity("mask_faceuv2+2997",vals)
+_feature:setOpacity("eye_part_faceu+2991",vals)
+_feature:setOpacity("eye_part_faceu+2992",vals)
+_feature:setOpacity("mask_faceuv2+2998",vals)
+_feature:setOpacity("eye_part_faceu+2993",vals)
+_feature:setOpacity("lips_keypoint_faceu+2996",vals)

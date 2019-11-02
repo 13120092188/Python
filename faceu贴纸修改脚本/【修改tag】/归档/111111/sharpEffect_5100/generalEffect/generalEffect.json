@@ -1,0 +1,27 @@
+{
+    "effect": [
+        {
+            "name": "RedBlueVertigo",
+            "vertexShader": "resource1/vshader.vsh",
+            "vUniforms": [
+                {
+                    "name": "widthOffset",
+                    "type": 300
+                },
+                {
+                    "name": "heightOffset",
+                    "type": 301
+                }
+            ],
+            "fragmentShader": "resource1/fshader.fsh",
+            "fUniforms": [
+                {
+                    "name": "inputImageTexture",
+                    "type": 100
+                }
+  
+            ]
+        }
+    ],
+    "version": 1.1
+}

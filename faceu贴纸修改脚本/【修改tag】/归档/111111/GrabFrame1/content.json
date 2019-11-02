@@ -1,0 +1,12 @@
+{
+    "cacheTargetKey": "frame1",
+    "content": {
+        "numOccupy": 1,
+        "type": "GrabFrame"
+    },
+    "requirement": {
+        "faceDetect": false
+    },
+    "tag": "2019_10_31_20_51_23_53ed697d39f99989daedf874dac3f55e",
+    "version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+    "content": {
+        "config": "generalEffect.json",
+        "path": "generalEffect/",
+        "version": "1.2"
+    },
+    "requirement": {
+        "faceDetect": false,
+        "matting": false
+    },
+    "tag": "2019_10_31_20_51_23_367405712cab63372c90c0d6ae5f7b7a",
+    "version": "1.0"
+}

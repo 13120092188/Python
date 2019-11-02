@@ -1,0 +1,71 @@
+{
+    "materials": [
+        {
+            "name": "mtl_0",
+            "techniques": [
+                {
+                    "name": "tech_0",
+                    "passes": [
+                        {
+                            "blend": true,
+                            "blend_dst_factor": "BF_ONE_MINUS_SRC_ALPHA",
+                            "blend_equation": "BE_FUNC_ADD",
+                            "blend_src_factor": "BF_ONE",
+                            "cullFace": false,
+                            "depthFunc": "DF_LEQUAL",
+                            "depthTest": true,
+                            "depthWrite": true,
+                            "name": "pass_0",
+                            "renderFaceMode": "RFM_FRONT",
+                            "renderType": "Transparent",
+                            "shaders": [
+                                {
+                                    "defination": [
+                                    ],
+                                    "source": "117583a522c949348618cc33c7b69816_v1.glsl",
+                                    "type": "VERTEX_SHADER"
+                                },
+                                {
+                                    "defination": [
+                                    ],
+                                    "source": "117583a522c949348618cc33c7b69816_f1.glsl",
+                                    "type": "FRAGMENT_SHADER"
+                                }
+                            ],
+                            "uniforms": { 
+                                "g_unif_ModelViewProjMat": "BT_MODEL_VIEW_PROJECTION_MATRIX",
+                                "uLightPos": [
+                                    0.0,
+                                    -0.300000011920929,
+                                    3.000000000000000,
+                                    1.000000000000000
+                                ],
+                                "uLightColor": [
+                                    1,
+                                    0.75,
+                                    0.55,
+                                    1.400000000000000
+                                ],
+                                "uRoughness": 0.469998002052307,
+                                "uMetallic": 1.0,
+                                "model": "BT_MODEL_MATRIX",
+
+                                "u_albedo": {
+                                    "filter": "FM_LINEAR",
+                                    "source": [
+                                        "../textures/makeup3d_open.png"
+                                    ],
+                                    "type": "2d_texture",
+                                    "wrap": "WM_REPEAT"
+                                },
+                                "uniAlpha": 1.0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "mat"
+}
+

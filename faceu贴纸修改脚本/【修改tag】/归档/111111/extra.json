@@ -1,0 +1,7 @@
+
+{ 
+    "settings":{
+        "disableExtMakeup": 1,
+        "touchEvent": 1
+    }
+}

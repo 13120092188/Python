@@ -1,0 +1,292 @@
+{
+    "animations": [
+    ],
+    "entities": [
+        {
+            "id": 0,
+            "name": "rootEntity",
+            "orientation": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "parent": "-1",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "components": [
+                {
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "MZ_ENTITY_6",
+            "orientation": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "parent": "0",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "components": [
+                {
+                    "material": 3,
+                    "type": "materialComponent"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "MZ_ENTITY_7",
+            "orientation": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "parent": "0",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "components": [
+                {
+                    "material": 3,
+                    "type": "materialComponent"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "MZ_ENTITY_8",
+            "orientation": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "parent": "0",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "components": [
+                {
+                    "material": 3,
+                    "type": "materialComponent"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "MZ_ENTITY_9",
+            "orientation": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "parent": "0",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "components": [
+                {
+                    "material": 3,
+                    "type": "materialComponent"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "MZ_ENTITY_10",
+            "orientation": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "parent": "0",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ],
+            "components": [
+                {
+                    "material": 3,
+                    "type": "materialComponent"
+                }
+            ]
+        },
+        {
+            "components": [
+                {
+                    "cameraParam": {
+                        "FOV": 53.13,
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "cameraType": "ORTHO",
+                        "far": 1000,
+                        "near": -1000,
+                        "view_port": [
+                            0,
+                            1,
+                            0,
+                            1
+                        ],
+                        "ortho_scale": 1.0
+                    },
+                    "name": "camera0",
+                    "type": "cameraComponent"
+                }
+            ],
+            "id": 1,
+            "name": "camera0",
+            "orientation": [
+                1,
+                0,
+                0,
+                0
+            ],
+            "parent": "0",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "scale": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "components": [
+            ],
+            "id": 4,
+            "name": "pointLight",
+            "orientation": [
+                0.9819563867314218,
+                -0.18910752115495127,
+                0.0,
+                0.0
+            ],
+            "parent": "0",
+            "position": [
+                30,
+                30,
+                0
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "components": [
+
+            ],
+            "id": 5,
+            "name": "dirLight",
+            "orientation": [
+                1,
+                0,
+                0.0,
+                0.0
+            ],
+            "parent": "0",
+            "position": [
+                1,
+                0,
+                10
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "components": [
+
+            ],
+            "id": 11,
+            "name": "spotLight",
+            "orientation": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "parent": "0",
+            "position": [
+                -20,
+                -20,
+                -20
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        }
+    ],
+    "groups": [],
+    "materials": [
+        {
+            "id": 3,
+            "source": "E12_3d_dog_sfg_a01_am_3DSticker_dog_sfg_a01/scene0_mtl/3DFaceUV_2.acmtl"
+        }
+    ],
+    "models": [
+    ],
+    "particles": [],
+    "textures": []
+}

@@ -1,0 +1,45 @@
+{
+    "content": {
+        "FaceId": [
+            0,
+            1,
+            2
+        ],
+        "ShaderType": 2,
+        "fragShader": "landmarkShader_multipy/fragShader.glsl",
+        "inputImageTexture1": "frame1",
+        "inputImageTexture2": "frame2",
+        "intensity": 1.0,
+        "mouthWeight": 0.25,
+        "noseWeight": 0.75,
+        "outlineWeight": [
+            0.6,
+            0.5,
+            0.4,
+            0.35,
+            0.3,
+            0.3,
+            0.3,
+            0.3,
+            0.3,
+            0.3,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.22
+        ],
+        "reduceOccupy1": 1,
+        "reduceOccupy2": 1,
+        "vertShader": "landmarkShader_multipy/vertShader.glsl"
+    },
+    "requirement": {
+        "3dFaceMesh845": true,
+        "faceDetect": true,
+        "faceDetect240": true
+    },
+    "tag": "2019_10_31_20_51_23_5d44fd81ff551ba996d7e2a98bc14e3e",
+    "version": "1.0"
+}

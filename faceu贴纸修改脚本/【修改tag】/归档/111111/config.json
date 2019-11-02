@@ -1,0 +1,135 @@
+{
+    "effect": {
+        "Link": [
+            {
+                "defaultEnable": false,
+                "path": "Filter_5100/",
+                "rtShare": true,
+                "type": "Filter",
+                "zorder": 2000
+            },
+            {
+                "path": "FaceMakeupV2_byTool/",
+                "rtShare": true,
+                "type": "FaceMakeupV2",
+                "zorder": 2990
+            },
+            {
+                "faceIndex": [
+                    0,
+                    1,
+                    2
+                ],
+                "path": "E12_3d_dog_sfg_a01_am_3DSticker_dog_sfg_a01/",
+                "rtShare": true,
+                "type": "3DStickerV3",
+                "zorder": 2995
+            },
+            {
+                "defaultEnable": true,
+                "path": "GrabFrame1/",
+                "rtShare": true,
+                "type": "GeneralEffect",
+                "zorder": 3000
+            },
+            {
+                "defaultEnable": true,
+                "path": "GeneralEffectBlack/",
+                "rtShare": true,
+                "type": "GeneralEffect",
+                "zorder": 3100
+            },
+            {
+                "faceIndex": [
+                    0,
+                    1,
+                    2
+                ],
+                "path": "E12_3d_dog_sfg_a01_am_3DSticker_dog_sfg_a02/",
+                "rtShare": true,
+                "type": "3DStickerV3",
+                "zorder": 3200
+            },
+            {
+                "defaultEnable": true,
+                "path": "GrabFrame2/",
+                "rtShare": true,
+                "type": "GeneralEffect",
+                "zorder": 3300
+            },
+            {
+                "defaultEnable": true,
+                "path": "GeneralEffectVideo/",
+                "rtShare": true,
+                "type": "GeneralEffect",
+                "zorder": 3400
+            },
+            {
+                "defaultEnable": true,
+                "path": "landmark3D/",
+                "rtShare": true,
+                "type": "FaceMeshLandmark",
+                "zorder": 3500
+            },
+            {
+                "defaultEnable": true,
+                "path": "Generaltoumingdu/",
+                "rtShare": true,
+                "type": "GeneralEffect",
+                "zorder": 3600
+            },
+            {
+                "defaultEnable": true,
+                "path": "sharpEffect_5100/",
+                "rtShare": true,
+                "type": "GeneralEffect",
+                "zorder": 4999
+            },
+            {
+                "defaultEnable": true,
+                "faceIndex": [
+                    0,
+                    1,
+                    2
+                ],
+                "path": "ESScene3DSticker/",
+                "rtShare": true,
+                "type": "3DStickerV3",
+                "zorder": 5080
+            },
+            {
+                "defaultEnable": true,
+                "faceIndex": [
+                    0,
+                    1,
+                    2
+                ],
+                "path": "ESScene3DSticker1/",
+                "rtShare": true,
+                "type": "3DStickerV3",
+                "zorder": 5100
+            },
+            {
+                "defaultEnable": true,
+                "path": "Generaltoumingdu_2/",
+                "rtShare": true,
+                "type": "GeneralEffect",
+                "zorder": 5200
+            },
+            {
+                "type": "TouchGes"
+            }
+        ],
+        "exclusiveScene": [
+            {
+                "priority": 9999,
+                "sceneKey": "FaceMakeup*",
+                "tagName": [
+                    "FaceMakeupV2_byTool/"
+                ]
+            }
+        ]
+    },
+    "name": "4.3.0MACAB9F12E8D4C848338F14F1185473469420191022212950",
+    "version": "3.2.0"
+}

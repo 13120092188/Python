@@ -1,0 +1,79 @@
+{
+  "parts": {
+    "entityname6EBA05AAC1E94578944519B57878FB29": {
+      "clipname1": {
+        "alphaFactor": 1.0,
+        "blendmode": 1022,
+        "fps": 16,
+        "height": 960,
+        "textureIdx": {
+          "idx": [
+            0
+          ],
+          "type": "image"
+        },
+        "transformParams": {
+          "position": {
+            "point0": {
+              "anchor": [
+                0.0,
+                0.0
+              ],
+              "point": [
+                {
+                  "idx": "topleft",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 1.0
+                }
+              ]
+            },
+            "point1": {
+              "anchor": [
+                1.0,
+                0.0
+              ],
+              "point": [
+                {
+                  "idx": "topright",
+                  "relationRef": 0,
+                  "relationType": "foreground",
+                  "weight": 1.0
+                }
+              ]
+            }
+          },
+          "relation": {
+            "foregroundVertical": 1
+          },
+          "relationIndex": [
+            0
+          ],
+          "relationRefOrder": 0,
+          "rotationtype": 1,
+          "scale": {
+            "scaleY": {
+              "end_idx": {
+                "idx": "bottomleft",
+                "relationRef": 0,
+                "relationType": "foreground"
+              },
+              "factor": 1,
+              "start_idx": {
+                "idx": "topleft",
+                "relationRef": 0,
+                "relationType": "foreground"
+              }
+            }
+          }
+        },
+        "transformType": "FOLLOW",
+        "width": 720,
+        "zorder": 5000
+      }
+    }
+  },
+  "texturefiles": [
+    "clipname1/clipname1_000.png"
+  ]
+}

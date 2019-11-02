@@ -1,0 +1,14 @@
+{
+  "perf": {
+    "curPerf": -1.0,
+    "refPerfs": []
+  },
+  "trigger": [
+    {
+      "action": [
+        1
+      ],
+      "triggerType": "shooting"
+    }
+  ]
+}

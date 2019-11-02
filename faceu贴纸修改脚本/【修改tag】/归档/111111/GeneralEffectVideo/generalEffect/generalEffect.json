@@ -1,0 +1,42 @@
+{
+    "effect": [
+        {
+            "name": "showeye",
+            "vertexShader": "resource1/normal.vsh",
+            "vUniforms": [
+ 
+            ],
+            "fragmentShader": "resource1/normal.fsh",
+            "fUniforms": [
+                {
+                    "name": "inputImageTexture1",
+                    "type": 3000,
+                    "renderCacheKey": "frame1"
+                }
+            ],
+            "BRCDrawParam": {
+                "BRCDrawMode": 4,
+                "BRCDrawCount": 4,
+                "BRCDrawVertexStep": 3,
+                "BRCDrawUVStep": 2,
+                "BRCDrawVertexData": [
+                   -1.0, -1.0, 0.0,
+                    1.0, -1.0, 0.0,
+                   -1.0,  1.0, 0.0,
+                    1.0,  1.0, 0.0
+                ],
+                "BRCDrawUVData": [
+                    0.0, 0.0,
+                    1.0, 0.0,
+                    0.0, 1.0,
+                    1.0, 1.0
+                ],
+                "BRCDrawIndexData": [
+                    0, 1, 2,
+                    1, 3, 2
+                ]
+            }
+        }
+    ],
+    "version": 1.1
+}

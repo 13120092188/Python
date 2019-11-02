@@ -1,0 +1,13 @@
+
+local maleOpacity   = 0.0
+local femaleOpacity = 1.0
+local filter_folder = "Filter_5099"
+
+filter_folder = feature_1.folder
+
+
+
+
+        local feature = this:getFeature("FaceMakeupV2_byTool")
+        local _feature = EffectSdk.castFaceMakeupV2Feature(feature)
+        _feature:setIntensity("pupil_faceu+2990",0.75)

@@ -1,0 +1,23 @@
+{
+    "content": {
+        "events": {
+            "source": "./sticker.event",
+            "version": 2
+        },
+        "headModelType": 2,
+        "scenes": [
+            {
+                "id": 0,
+                "isRevPostProc": true,
+                "name": "scene0",
+                "source": "./sticker.scene"
+            }
+        ]
+    },
+    "requirement": {
+        "faceDetect": true,
+        "matting": false
+    },
+    "tag": "2019_10_31_20_51_23_c614e2f8fe1aa0b8c0aa63c5658d5cf3",
+    "version": "1.2"
+}

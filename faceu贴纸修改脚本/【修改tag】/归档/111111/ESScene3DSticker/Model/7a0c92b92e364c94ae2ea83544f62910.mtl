@@ -1,0 +1,62 @@
+{
+    "materials": [
+        {
+            "name": "mtl_0",
+            "techniques": [
+                {
+                    "name": "tech_0",
+                    "passes": [
+                        {
+                            "blend": true,
+                            "blend_dst_factor": "BF_ZERO",
+                            "blend_equation": "BE_FUNC_ADD",
+                            "blend_src_factor": "BF_ONE",
+                            "cullFace": true,
+                            "depthFunc": "DF_LEQUAL",
+                            "depthTest": true,
+                            "depthWrite": true,
+                            "name": "pass_0",
+                            "renderFaceMode": "RFM_FRONT",
+                            "renderType": "Transparent",
+                            "shaders": [
+                                {
+                                    "defination": [
+                                    ],
+                                    "source": "fb205fbd8dfb45779a40ac7df3c5f149_v1.glsl",
+                                    "type": "VERTEX_SHADER"
+                                },
+                                {
+                                    "defination": [
+                                    ],
+                                    "source": "fb205fbd8dfb45779a40ac7df3c5f149_f1.glsl",
+                                    "type": "FRAGMENT_SHADER"
+                                }
+                            ],
+                            "uniforms": {
+                                "u_ModelViewProjMat": "BT_MODEL_VIEW_PROJECTION_MATRIX",
+                                "u_NormalWorldMat": "BT_NORMAL_WORLD_MATRIX",
+                                "u_colorTexture": {
+                                    "filter": "FM_LINEAR_MIPMAP_LINEAR",
+                                    "source": [
+                                        "../textures/423f192397464969a0a55880ec8cc373.png"
+                                    ],
+                                    "type": "2d_texture",
+                                    "wrap": "WM_CLAMP"
+                                },
+                                "u_normalTexture": {
+                                    "filter": "FM_LINEAR_MIPMAP_LINEAR",
+                                    "source": [
+                                        "../textures/8f4cc786088442d39fcdc3c4284a4133.png"
+                                    ],
+                                    "type": "2d_texture",
+                                    "wrap": "WM_CLAMP"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "mat"
+}

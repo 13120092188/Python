@@ -1,0 +1,326 @@
+{
+    "faceID": [
+        0,
+        1,
+        2
+    ],
+    "faceSDKType": 3,
+    "filters": [
+        {
+            "2d_sequence_resources": {
+                "imageCount": 1,
+                "imageInterval": 0.05,
+                "name": "pupilBlend000000",
+                "path": "pupilBlend000000_1534227099/"
+            },
+            "blendMode": 0,
+            "filterType": "pupil_faceu",
+            "intensity": 0.75,
+            "maleOpacity": 0.0,
+            "mask_resources": {
+                "imageCount": 1,
+                "imageInterval": 0.05,
+                "name": "pupilMask000000",
+                "path": "pupilMask000000_1534227099/"
+            },
+            "pupilV2Param": {
+                "enableReflect": true,
+                "reflectBlendMode": 21,
+                "reflectIntensity": 0.400000005960464
+            },
+            "rect": {
+                "height": 1280,
+                "width": 1280,
+                "x": 0,
+                "y": 0
+            },
+            "shaderTypeParam": 0,
+            "zPosition": 2990
+        },
+        {
+            "2d_sequence_resources": {
+                "imageCount": 1,
+                "imageInterval": 0.05,
+                "name": "lips0",
+                "path": "lips/"
+            },
+            "blendMode": 0,
+            "filterType": "lips_keypoint_faceu",
+            "intensity": 1.0,
+            "maleOpacity": 0.0,
+            "mask_resources": {
+                "imageCount": 1,
+                "imageInterval": 0.05000000074505806,
+                "name": "lips0mask",
+                "path": "lips/"
+            },
+            "posYOffset": 1.002,
+            "rect": {
+                "height": 1280,
+                "width": 1280,
+                "x": 0,
+                "y": 0
+            },
+            "shaderTypeParam": 0,
+            "stMatrix": [
+                4.0,
+                0.0,
+                0.0,
+                -1.5,
+                0.0,
+                8.0,
+                0.0,
+                -1.799999952316284,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "zPosition": 2991
+        },
+        {
+            "2d_sequence_resources": {
+                "imageCount": 1,
+                "imageInterval": 0.05,
+                "name": "facialfeatures",
+                "path": "facialfeatures/"
+            },
+            "blendMode": 22,
+            "filterType": "mask_faceuv2",
+            "intensity": 0.8,
+            "maleOpacity": 0.0,
+            "rect": {
+                "height": 1280,
+                "width": 1280,
+                "x": 0,
+                "y": 0
+            },
+            "shaderTypeParam": 0,
+            "zPosition": 2999
+        },
+        {
+            "2d_sequence_resources": {
+                "imageCount": 1,
+                "imageInterval": 0.05,
+                "name": "blusher",
+                "path": "blusher2/"
+            },
+            "blendMode": 15,
+            "filterType": "mask_faceuv2",
+            "intensity": 0.8,
+            "maleOpacity": 0.0,
+            "posYOffset": 1.002,
+            "rect": {
+                "height": 1280,
+                "width": 1280,
+                "x": 0,
+                "y": 0
+            },
+            "shaderTypeParam": 0,
+            "stMatrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "zPosition": 2995
+        },
+        {
+            "2d_sequence_resources": {
+                "imageCount": 1,
+                "imageInterval": 0.05,
+                "name": "eye",
+                "path": "eye/"
+            },
+            "blendMode": 15,
+            "filterType": "eye_part_faceu",
+            "intensity": 0.8,
+            "maleOpacity": 0.0,
+            "rect": {
+                "height": 1280,
+                "width": 1280,
+                "x": 0,
+                "y": 0
+            },
+            "shaderTypeParam": 0,
+            "stMatrix": [
+                2.0,
+                0.0,
+                0.0,
+                -0.5,
+                0.0,
+                4.0,
+                0.0,
+                -1.75,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "zPosition": 2994
+        },
+        {
+            "2d_sequence_resources": {
+                "imageCount": 1,
+                "imageInterval": 0.05,
+                "name": "eye",
+                "path": "eyelash/"
+            },
+            "blendMode": 15,
+            "filterType": "eye_part_faceu",
+            "intensity": 0.8,
+            "maleOpacity": 0.0,
+            "rect": {
+                "height": 1280,
+                "width": 1280,
+                "x": 0,
+                "y": 0
+            },
+            "shaderTypeParam": 0,
+            "stMatrix": [
+                2.0,
+                0.0,
+                0.0,
+                -0.5,
+                0.0,
+                4.0,
+                0.0,
+                -1.75,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "zPosition": 2996
+        },
+        {
+            "2d_sequence_resources": {
+                "imageCount": 1,
+                "imageInterval": 0.05,
+                "name": "blusher",
+                "path": "normal2/"
+            },
+            "blendMode": 0,
+            "filterType": "mask_faceuv2",
+            "intensity": 0.8,
+            "maleOpacity": 0.0,
+            "rect": {
+                "height": 1280,
+                "width": 1280,
+                "x": 0,
+                "y": 0
+            },
+            "shaderTypeParam": 0,
+            "zPosition": 2997
+        },
+        {
+            "2d_sequence_resources": {
+                "imageCount": 1,
+                "imageInterval": 0.05,
+                "name": "eye",
+                "path": "eye_screen/"
+            },
+            "blendMode": 21,
+            "filterType": "eye_part_faceu",
+            "intensity": 0.8,
+            "maleOpacity": 0.0,
+            "rect": {
+                "height": 1280,
+                "width": 1280,
+                "x": 0,
+                "y": 0
+            },
+            "shaderTypeParam": 0,
+            "stMatrix": [
+                2.0,
+                0.0,
+                0.0,
+                -0.5,
+                0.0,
+                4.0,
+                0.0,
+                -1.75,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "zPosition": 2998
+        },
+        {
+            "2d_sequence_resources": {
+                "imageCount": 1,
+                "imageInterval": 0.05,
+                "name": "lips0",
+                "path": "lips1/"
+            },
+            "blendMode": 15,
+            "filterType": "lips_keypoint_faceu",
+            "fragShaderPath": "lipShader/fragShader.glsl",
+            "intensity": 0.64,
+            "maleOpacity": 0.0,
+            "posYOffset": 1.002,
+            "rect": {
+                "height": 1280,
+                "width": 1280,
+                "x": 0,
+                "y": 0
+            },
+            "shaderTypeParam": 0,
+            "stMatrix": [
+                4.0,
+                0.0,
+                0.0,
+                -1.5,
+                0.0,
+                8.0,
+                0.0,
+                -1.799999952316284,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "vertShaderPath": "lipShader/vertShader.glsl",
+            "zPosition": 2993
+        }
+    ],
+    "standardFaceKeyPoints": "mask/texcoord.txt",
+    "standardFaceSize": {
+        "height": 1280,
+        "width": 1280
+    },
+    "version": "3.6"
+}

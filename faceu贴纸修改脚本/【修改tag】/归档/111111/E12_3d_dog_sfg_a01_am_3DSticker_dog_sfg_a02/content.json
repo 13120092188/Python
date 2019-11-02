@@ -1,0 +1,18 @@
+{
+    "content": {
+        "scenes": [
+            {
+                "id": 0,
+                "name": "scene0",
+                "source": "./sticker0.scene"
+            }
+        ]
+    },
+    "needblend": false,
+    "requirement": {
+        "3dFaceMesh845": true,
+        "faceDetect": true
+    },
+    "tag": "2019_10_31_20_51_23_97af7fb266a9f0156e81a356aead1123",
+    "version": "1.2"
+}

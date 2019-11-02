@@ -1,0 +1,65 @@
+
+    handleComposerUpdateNodeEvent = function (this, path, tag, percentage)
+        local feature = this:getFeature("Filter_5100")
+        -- local _feature = EffectSdk.castFaceMakeupV2Feature(feature)
+        if (not feature)  then
+            print("Filter is not exist")
+            return false
+        end
+        if tag == "Internal_Filter" then
+            feature:setIntensity(percentage)
+        end
+
+        
+        local feature = this:getFeature("FaceMakeupV2_byTool")
+        local _feature = EffectSdk.castFaceMakeupV2Feature(feature)
+        if (not feature) or (not _feature) then
+            print("FaceMakeupV2_byTool is not exist")
+            return false
+        end
+        if tag == "Internal_Makeup" then
+            _feature:setIntensity("pupil_faceu+2990",percentage)
+            _feature:setIntensity("lips_keypoint_faceu+2991",percentage)
+            _feature:setIntensity("mask_faceuv2+2992",percentage)
+            _feature:setIntensity("mask_faceuv2+2994",percentage)
+            _feature:setIntensity("eye_part_faceu+2995",percentage)
+            _feature:setIntensity("eye_part_faceu+2996",percentage)
+            _feature:setIntensity("mask_faceuv2+2997",percentage)
+            _feature:setIntensity("eye_part_faceu+2998",percentage)
+            _feature:setIntensity("lips_keypoint_faceu+2993",percentage)
+        end
+    end,
+    handleGenderEvent = function(this, genderInfo)
+        local feature = this:getFeature("FaceMakeupV2_byTool")
+        local _feature = EffectSdk.castFaceMakeupV2Feature(feature)
+        if (not feature) or (not _feature) then
+            print("FaceMakeupV2_byTool is not exist")
+            return false
+        end
+        local effect_manager      = this:getEffectManager()
+        local isMaleMakeupOpen    = effect_manager:getMaleMakeupState()
+        local _maleOpacity        = maleOpacity
+        if not isMaleMakeupOpen then
+            _maleOpacity = femaleOpacity
+        end
+        
+        local vals = EffectSdk.vectorf()
+        for i = 0,4 do
+            if genderInfo:isMan(i) > 0.6 then
+                vals:push_back(_maleOpacity)
+            elseif genderInfo:isMan(i) < 0.4 then
+                vals:push_back(femaleOpacity)
+            else
+                vals:push_back(femaleOpacity)
+            end
+        end
+        _feature:setOpacity("pupil_faceu+2990",vals)
+        _feature:setOpacity("lips_keypoint_faceu+2991",vals)
+        _feature:setOpacity("mask_faceuv2+2992",vals)
+        _feature:setOpacity("mask_faceuv2+2994",vals)
+        _feature:setOpacity("eye_part_faceu+2995",vals)
+        _feature:setOpacity("eye_part_faceu+2996",vals)
+        _feature:setOpacity("mask_faceuv2+2997",vals)
+        _feature:setOpacity("eye_part_faceu+2998",vals)
+        _feature:setOpacity("lips_keypoint_faceu+2993",vals)
+    end,

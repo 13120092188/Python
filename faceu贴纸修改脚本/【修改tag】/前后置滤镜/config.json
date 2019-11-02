@@ -1,0 +1,55 @@
+{
+    "effect": {
+        "Link": [
+            {
+                "defaultEnable": false,
+                "path": "Filter_back/",
+                "rtShare": true,
+                "type": "Filter",
+                "zorder": 2000
+            },
+            {
+                "defaultEnable": false,
+                "path": "Filter_front/",
+                "rtShare": true,
+                "type": "Filter",
+                "zorder": 2001
+            },
+            {
+                "path": "FaceMakeupV2_byTool/",
+                "rtShare": true,
+                "type": "FaceMakeupV2",
+                "zorder": 2990
+            },
+            {
+                "defaultEnable": true,
+                "faceIndex": [
+                    0,
+                    1,
+                    2
+                ],
+                "path": "E12_3d_dog_sfg_a01_am_3DSticker_dog_sfg_a01/",
+                "rtShare": true,
+                "type": "3DStickerV3",
+                "zorder": 2992
+            },
+            {
+                "path": "2DStickerV3_5102/",
+                "rtShare": true,
+                "type": "2DStickerV3",
+                "zorder": 5000
+            }
+        ],
+        "exclusiveScene": [
+            {
+                "priority": 9999,
+                "sceneKey": "FaceMakeup*",
+                "tagName": [
+                    "FaceMakeupV2_byTool/"
+                ]
+            }
+        ]
+    },
+    "name": "4.2.0MAC3674A3444F7C46BA9B18F965A377086120191017184313",
+    "version": "4.2.0"
+}

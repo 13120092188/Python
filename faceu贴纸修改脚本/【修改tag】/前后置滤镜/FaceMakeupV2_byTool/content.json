@@ -1,0 +1,11 @@
+{
+    "content": {
+        "path": "makeup.json"
+    },
+    "requirement": {
+        "faceDetect": true,
+        "genderDetect": true
+    },
+    "tag": "2019_10_23_15_54_51_ff0febc58e236cc92c0fde041e6e5b4e",
+    "version": "1.1"
+}
